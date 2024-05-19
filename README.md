@@ -21,6 +21,7 @@
   <br><strong>📌 Observações:</strong> Conectores de nomes (de, da, das, do, dos, e) devem ser desconsiderados; A quantidade de nomes de um 
   determinado colaborador não deve afetar o funcionamento real da solução. 
 </p>
+<br>
 
 <p align="justify">
   2 - A ModalGR possui um sistema em desenvolvimento e numa parte específica será necessário separar dados 
@@ -30,7 +31,7 @@
   ... <br>
   Visando atender esse quesito, você foi escolhido para nos ajudar nessa solução! <br>
   Após a separação dos dados exibi-los em tela. 
-  <br><strong>📌 Observação:</strong> O tamanho da string com os dados base é variável, ou seja, não possui um limite fixo.
+  <br><br><strong>📌 Observação:</strong> O tamanho da string com os dados base é variável, ou seja, não possui um limite fixo.
 </p>
 
 <h1 align="center">⚙ Linguagens e ferramentas</h1>

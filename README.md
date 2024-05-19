@@ -1,11 +1,11 @@
-<h1 align="center">Exercícios ModalGR</h1>
+<h1 align="center">📚 Exercícios ModalGR</h1>
 
 <p align="justify">
  Foi proposto pela empresa ModalGr a resolução de 2 exercícios na linguagem da escolha do candidato. A minha escolha foi a linguagem C#, pois é qual eu estou mais familiarizado e 
  possuo mais estudo e afinidade.
 </p>
 
-<h2><strong>Enunciados:</strong></h2>
+<h2><strong>👨‍💻 Enunciados:</strong></h2>
 
 <p align="justify">
   1 - A ModalGR participará de uma feira de tecnologia e cerca de 150 de seus colaboradores comparecerão. Portanto, 
@@ -18,7 +18,7 @@
   Visando atender essa exigência, você foi escolhido para nos ajudar nessa solução! <br>
   A ideia é ter um campo para inserção do nome completo do colaborador, e em seguida, exibi-lo no padrão exigido.
  
-  <br><strong>Observações:</strong> Conectores de nomes (de, da, das, do, dos, e) devem ser desconsiderados; A quantidade de nomes de um 
+  <br><strong>📌 Observações:</strong> Conectores de nomes (de, da, das, do, dos, e) devem ser desconsiderados; A quantidade de nomes de um 
   determinado colaborador não deve afetar o funcionamento real da solução. 
 </p>
 
@@ -30,10 +30,10 @@
   ... <br>
   Visando atender esse quesito, você foi escolhido para nos ajudar nessa solução! <br>
   Após a separação dos dados exibi-los em tela. 
-  <br><strong>Observação:</strong> O tamanho da string com os dados base é variável, ou seja, não possui um limite fixo.
+  <br><strong>📌 Observação:</strong> O tamanho da string com os dados base é variável, ou seja, não possui um limite fixo.
 </p>
 
-<h1 align="center"> Linguagens e ferramentas</h1>
+<h1 align="center">⚙ Linguagens e ferramentas</h1>
 
 <div display="inline">
   <img src="https://img.shields.io/badge/-C%23-green&color=black?logo=csharp&logoColor=282C34" alt="C Sharp logo" title="csharp" height="25"/>
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </div>
 
+<br>
 <p align="justify">
   Obrigado pela visita, sinta-se a vontade para dar sugestões de melhorias e explorar os demais projetos :)
 </p>

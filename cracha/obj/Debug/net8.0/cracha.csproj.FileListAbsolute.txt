@@ -1,0 +1,28 @@
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\bin\Debug\net8.0\cracha.exe
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\bin\Debug\net8.0\cracha.deps.json
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\bin\Debug\net8.0\cracha.runtimeconfig.json
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\bin\Debug\net8.0\cracha.dll
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\bin\Debug\net8.0\cracha.pdb
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.AssemblyInfoInputs.cache
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.AssemblyInfo.cs
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.csproj.CoreCompileInputs.cache
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.dll
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\refint\cracha.dll
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.pdb
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\cracha.genruntimeconfig.cache
+E:\Estudos Programação\C-Sharp\Exercícios ModalGr\cracha\obj\Debug\net8.0\ref\cracha.dll
+C:\Users\Felipe\Downloads\cracha\bin\Debug\net8.0\cracha.exe
+C:\Users\Felipe\Downloads\cracha\bin\Debug\net8.0\cracha.deps.json
+C:\Users\Felipe\Downloads\cracha\bin\Debug\net8.0\cracha.runtimeconfig.json
+C:\Users\Felipe\Downloads\cracha\bin\Debug\net8.0\cracha.dll
+C:\Users\Felipe\Downloads\cracha\bin\Debug\net8.0\cracha.pdb
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.AssemblyInfoInputs.cache
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.AssemblyInfo.cs
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.dll
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\refint\cracha.dll
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.pdb
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\cracha.genruntimeconfig.cache
+C:\Users\Felipe\Downloads\cracha\obj\Debug\net8.0\ref\cracha.dll
